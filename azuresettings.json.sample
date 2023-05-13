@@ -2,6 +2,6 @@
   "BingSearch": {
     "Endpoint": "https://api.bing.microsoft.com/",
     "AllSearch": "v7.0/search",
-    "Key": "_CHANGE_ME_"
+    "Key": "7cc83bba-ac8a-4592-82eb-a77e4afa3949"
   }
 }
